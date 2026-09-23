@@ -20,6 +20,7 @@ source-code-compression/
 │
 ├── data/
 │   ├── example.c
+│   ├── module.java
 │   ├── sample.cpp
 │   └── test.py
 │

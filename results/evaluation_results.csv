@@ -1,0 +1,4 @@
+File,Original Size (bytes),Compressed Size (bytes),Compression Ratio (%),Tokens Replaced
+example.c,162,119,26.54,4
+sample.cpp,192,150,21.88,4
+test.py,205,116,43.41,5
